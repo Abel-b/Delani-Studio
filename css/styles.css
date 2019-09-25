@@ -1,4 +1,4 @@
-.welcome{
+.welcome-img{
     background-image: url('/images/backgrounds/h_img.jpg');
     height: 800px;
     background-position: center;
@@ -7,6 +7,13 @@
     position: relative;
     text-align: center;
     color: white;
+}
+.welcome-text {
+    position: absolute;
+    left: 50;
+    right: 25%;
+    top: 48%;
+    bottom: 50;
 }
 .about-us {
     
