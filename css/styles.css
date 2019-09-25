@@ -10,11 +10,25 @@
 }
 .welcome-text {
     position: absolute;
-    left: 50;
     right: 25%;
     top: 48%;
-    bottom: 50;
 }
 .about-us {
-    
+    text-align: center;
+}
+.services-img {
+    background-image: url(/images/backgrounds/s_image.jpg);
+    color: white;
+    height: 400px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    text-align: center;
+}
+.services-text {
+    position: absolute;
+    right: 15%;
+    top: 28%;
 }
