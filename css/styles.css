@@ -51,7 +51,7 @@ img, h6 {
   .contact-img {
       background-image: url(/images/backgrounds/c_image.jpg);
       color: white;
-      height: 400px;
+      height: 500px;
       position: relative;
       background-repeat: no-repeat;
       background-size: cover;
