@@ -24,7 +24,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
     text-align: center;
 }
 .services-text {
@@ -32,3 +31,17 @@
     right: 15%;
     top: 28%;
 }
+img.center {    
+    margin: 10px auto 20px;
+    display: inline-block;
+}
+.design, .development, .product {
+    display: none;
+}
+img, h6 {
+    cursor: pointer;
+    color: rgb(27, 27, 59)
+  }
+  h6 {
+    text-align: left;
+  }
