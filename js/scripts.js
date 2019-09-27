@@ -24,4 +24,4 @@ $(document).ready(function() {
     var email = $(".email").val();
     alert(name + " we have received your message. Thank you for reaching out to us." );
     });
-    });
+})

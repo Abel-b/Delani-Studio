@@ -1,7 +1,6 @@
 .welcome-img{
     background-image: url('/images/backgrounds/h_img.jpg');
     height: 800px;
-    width: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +20,6 @@
     background-image: url(/images/backgrounds/s_image.jpg);
     color: white;
     height: 400px;
-    width: auto;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +43,7 @@ img.center {
 .design, .development, .product {
     display: none;
 }
-img, h6 {
+img, h6 {namenamename
     cursor: pointer;
     color: rgb(27, 27, 59)
 }
@@ -55,11 +53,16 @@ h6 {
 h2 {
       text-align: center;
 }
+.input {
+    background: transparent;
+}
+.placeholder {
+    color: white;
+}
 .contact-img {
       background-image: url(/images/backgrounds/c_image.jpg);
       color: white;
       height: 500px;
-      width: auto;
       position: relative;
       background-repeat: no-repeat;
       background-size: cover;
