@@ -3,7 +3,7 @@
     height: 800px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
     text-align: center;
     color: white;
@@ -22,7 +22,7 @@
     height: 400px;
     position: relative;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
     text-align: center;
 }
@@ -65,7 +65,7 @@ h2 {
       height: 500px;
       position: relative;
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: contain;
       position: relative;
       text-align: center;
   }
