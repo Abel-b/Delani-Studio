@@ -35,7 +35,11 @@
     position: relative;    
     display: inline-block; 
     left: 10%;            
-
+}
+.center1 {
+        position: relative;    
+        display: inline-block; 
+        left: 10%;  
 }
 img.center {    
     margin: 10px auto 20px;
