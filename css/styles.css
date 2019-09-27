@@ -1,17 +1,21 @@
 .welcome-img{
     background-image: url('/images/backgrounds/h_img.jpg');
     height: 800px;
+    width:auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    position: relative;
     text-align: center;
     color: white;
 }
 .welcome-text {
-    position: absolute;
-    right: 25%;
-    top: 48%;
+    padding-top: 40px;
+}
+.logo {
+    padding-top: 250px;
+}
+.mouse {
+    padding-top: 120px;
 }
 .about-us {
     text-align: center;
@@ -20,16 +24,13 @@
     background-image: url(/images/backgrounds/s_image.jpg);
     color: white;
     height: 400px;
-    position: relative;
-    background-repeat: no-repeat;
+    width: auto;
     background-size: contain;
-    position: relative;
+    background-repeat: no-repeat;
     text-align: center;
 }
 .services-text {
-    position: absolute;
-    right: 15%;
-    top: 28%;
+    padding-top: 100px;
 }
 .center {
     position: relative;    
