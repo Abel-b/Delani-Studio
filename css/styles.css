@@ -43,13 +43,14 @@ img.center {
 }
 .design, .development, .product {
     display: none;
+    width: auto;
 }
-img, h6 {namenamename
+.img-class, .img2-class, .img3-class {
+    padding-left: 150px;
+}
+img, h6 {
     cursor: pointer;
     color: rgb(27, 27, 59)
-}
-h6 {
-    text-align: left;
 }
 h2 {
       text-align: center;
@@ -64,11 +65,9 @@ h2 {
       background-image: url(/images/backgrounds/c_image.jpg);
       color: white;
       height: 500px;
-      position: relative;
+      width: auto;
       background-repeat: no-repeat;
       background-size: contain;
-      position: relative;
-      text-align: center;
   }
   @media only screen and (max-width: 1000px) {
     #images-box {
