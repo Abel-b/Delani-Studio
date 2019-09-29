@@ -28,7 +28,7 @@ This project is a website for a fictional studio (Delani).
 
 ## Link to website
 
-[website] (https://abel-b.github.io/)
+[website] (https://abel-b.github.io/Delani-Studio/)
 
 ### License and Copyright
 
