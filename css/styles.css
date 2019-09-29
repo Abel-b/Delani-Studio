@@ -45,8 +45,9 @@ img, h6 {
 h2 {
     text-align: center;
 }
-.name, .email, .message {
+.name, .email, .message, .submit {
     background: transparent;
+    color: white;
 }
 .message {
     width: 50%;
