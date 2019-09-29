@@ -1,5 +1,5 @@
 .welcome-img{
-    background-image: url('./images/backgrounds/h_img.jpg');
+    background-image: url("/images/backgrounds/h_img.jpg");
     height: 800px;
     width: auto;
     background-repeat: no-repeat;
@@ -23,7 +23,7 @@
     padding-left: 200px;
 }
 .services-img {
-    background-image: url('./images/backgrounds/s_image.jpg');
+    background-image: url("/images/backgrounds/s_image.jpg");
     color: white;
     height: 400px;
     width: auto;
@@ -64,7 +64,7 @@ h2 {
     color: white;
 }
 .contact-img {
-    background-image: url('./images/backgrounds/c_image.jpg');
+    background-image: url("/images/backgrounds/c_image.jpg");
     color: white;
     width: auto;
     height: 500px;
