@@ -1,6 +1,6 @@
 # Delani Studio
 
-#### This is a website for a studio named Delani Studio, Sept 19, 2019.
+#### This is a website for a studio named Delani Studio, Sept 29, 2019.
 
 ## Description
 
