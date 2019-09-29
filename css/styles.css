@@ -49,13 +49,15 @@ h2 {
     background: transparent;
 }
 .message {
-    color: white;
-    width: 100%;
-    padding-top: 40px;
-
+    width: 50%;
 }
-.placeholder {
+.name, .email {
+    padding-left: 0px;
+    width: 25%;
     color: white;
+}
+.inputs {
+    padding-left: 20%;
 }
 .contact-img {
     background-image: url(/images/backgrounds/c_image.jpg);
