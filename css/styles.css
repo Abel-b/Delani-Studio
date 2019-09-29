@@ -2,7 +2,6 @@
     background-image: url('/images/backgrounds/h_img.jpg');
     height: 800px;
     width:auto;
-    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
@@ -35,18 +34,11 @@
 .center {
     position: relative;    
     display: inline-block; 
-    left: 10%;            
-}
-img.center {    
-    margin: 10px auto 20px;
-    display: inline-block;
 }
 .design, .development, .product {
     display: none;
-    width: auto;
 }
 .img-class, .img2-class, .img3-class {
-    padding-left: 150px;
 }
 img, h6 {
     cursor: pointer;
@@ -55,7 +47,7 @@ img, h6 {
 h2 {
       text-align: center;
 }
-.input {
+.name, .email, .message {
     background: transparent;
 }
 .placeholder {
