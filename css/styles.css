@@ -1,20 +1,17 @@
 .welcome-img{
     background-image: url('/images/backgrounds/h_img.jpg');
     height: 800px;
-    width:auto;
+    width: auto;
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
     color: white;
 }
-.welcome-text {
-    padding-top: 40px;
-}
 .logo {
-    padding-top: 250px;
+    padding-top: 240px;
 }
 .mouse {
-    padding-top: 120px;
+    padding-top: 130px;
 }
 .about-us {
     text-align: center;
@@ -31,24 +28,25 @@
 .services-text {
     padding-top: 100px;
 }
-.center {
-    position: relative;    
-    display: inline-block; 
-}
 .design, .development, .product {
     display: none;
-}
-.img-class, .img2-class, .img3-class {
+    text-align: center;
 }
 img, h6 {
     cursor: pointer;
     color: rgb(27, 27, 59)
 }
 h2 {
-      text-align: center;
+    text-align: center;
 }
 .name, .email, .message {
     background: transparent;
+}
+.message {
+    color: white;
+    width: 100%;
+    padding-top: 40px;
+
 }
 .placeholder {
     color: white;
@@ -56,8 +54,8 @@ h2 {
 .contact-img {
       background-image: url(/images/backgrounds/c_image.jpg);
       color: white;
-      height: 500px;
       width: auto;
+      height: 500px;
       background-repeat: no-repeat;
       background-size: contain;
   }
