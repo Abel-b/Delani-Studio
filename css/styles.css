@@ -19,6 +19,9 @@
 .grid {
     padding-left: 150px;
 }
+.image-row {
+    padding-left: 200px;
+}
 .services-img {
     background-image: url(/images/backgrounds/s_image.jpg);
     color: white;
