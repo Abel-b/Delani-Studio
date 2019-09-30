@@ -48,15 +48,8 @@
 .burned,
 .giraffe {
     display: none;
-    text-align: center;
-    z-index: 10;
-    position: relative;
-    top:-100px;
-    opacity: 0.5;
+    opacity: 1;
     color: brown;
-}
-.hover-box {
-    top: 0px; left: 0px;
 }
 img, h6 {
     cursor: pointer;
