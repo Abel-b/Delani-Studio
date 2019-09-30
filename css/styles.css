@@ -91,6 +91,9 @@ h2 {
     background-repeat: no-repeat;
     background-size: contain;
 }
+.social {
+    padding-left: 70px;
+}
 body {
     padding: 0;
     margin: 0;
